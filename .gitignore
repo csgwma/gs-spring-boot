@@ -1,0 +1,20 @@
+.DS_Store
+.project
+.classpath
+.settings
+/target
+
+
+# Java.ignore file
+*.class
+*.o
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
